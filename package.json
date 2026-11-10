@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot-railway",
   "version": "1.0.0",
-  "description": "My WhatsApp Bot",
+  "description": "My WhatsApp Bot with Web Pairing",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,6 +11,7 @@
     "@whiskeysockets/baileys": "^6.7.24",
     "pino": "^9.0.0",
     "@hapi/boom": "^10.0.1",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "qrcode": "^1.5.4"
   }
 }
